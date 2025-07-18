@@ -8,4 +8,4 @@ while True:
     print("입력한 단어:", word)
 
 # while True는 무한 루프 (끝없이 반복)
-# 내부에서 if 조건을 걸어 break로 빠져나오는 방식으로 사용
+# 내부에서 if 조건을 걸어 break로 빠져나오는 방식으로 사용.
