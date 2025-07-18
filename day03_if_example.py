@@ -1,6 +1,6 @@
 # day03_if_example.py
 
-score = int(input("점수를 입력하세요: "))
+score = int(input("점수를 입력하세요: ")) # 점수를 입력받음
 
 if score >= 90:
     print("A등급입니다.")
